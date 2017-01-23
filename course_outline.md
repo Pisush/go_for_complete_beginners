@@ -16,13 +16,13 @@ The practical part can take place in the playground or locally, depends on the w
 The homework part are exercises the participants will do at home between the meetings to repeat the material and can ask about on slack.
 
 ### Instructing tips
-asking “is all clear?” or “who didn’t understand?” is not enough. Many participants are shy or afraid to ask a stupid question.
-Some approaches that worked in the Berlin chapter:
-Remind there are no stupid questions here
-Thanking and responding that it was a good question
-Speak slowly and repeat the keywords - both new and previous terms
-Get the other instructors to walk in the class and ask each participant at least once during the meeting “what questions do you have?”
-When a difficult technical question is asked in the group discussion, invite the person to discuss this during the break
+Asking “is all clear?” or “who didn’t understand?” is not enough. Many participants are shy or afraid to ask a stupid question. Some approaches that worked in the Berlin chapter:
+
+- Remind there are no stupid questions here
+- Thanking and responding that it was a good question
+- Speak slowly and repeat the keywords - both new and previous terms
+- Get the other instructors to walk in the class and ask each participant at least once during the meeting “what questions do you have?”
+- When a difficult technical question is asked in the group discussion, invite the person to discuss this during the break
 
 
 
@@ -56,6 +56,7 @@ GoBridge, Women Who Go, Newsletter, meetups, twitter, confs, slack
 - Zero values
 - Different declaration formats
 - Constants
+
 ### Functions
 - Signature meaning
 - Caller
@@ -67,7 +68,7 @@ GoBridge, Women Who Go, Newsletter, meetups, twitter, confs, slack
 For this homework guide the class to edit the playground exercises, as imports are introduced in class #3, but imports are already used now. If they ask - explain shortly, say this will be introduced later and encourage independent reading at home.
 4 functions for the 4 mathematical operation
 Func that receives name, and prints a message+name
-Fun that receives your age and name, and prints “<name> you were born in <year>”
+Func that receives your age and name, and prints “<name> you were born in <year>”
 
 
 
@@ -75,28 +76,28 @@ Fun that receives your age and name, and prints “<name> you were born in <year
 ## Practice in playground
 ### Loops
 - For
-Standard
-While
-Infinite 
+ - Standard
+ - While
+ - Infinite
 - If-else
 - Switch
-Standard
-Break	
-Fallthrough 
-Single case with several options
-No condition
+ - Standard
+ - Break
+ - Fallthrough
+ - Single case with several options
+ - No condition
 - Defer
-Defers are called as FILO 
+ - Defers are called as FILO
 - Pointers
-Value type (point to value in memory) vs. reference type (contains the address of the val)
-Slices and arrays
+ - Value type (point to value in memory) vs. reference type (contains the address of the val)
+ - Slices and arrays
 
 Do some exercises with fun visual libs like strings, math, fmt
 
 ## Homework
-Guessing game: func that gets number of guesses for the current round, chooses a random number, and for <number of guesses> times, the user attempts to guess the random number, and the game prints yes/no
-Func that gets an operator and 2 numbers, and prints the result of the operation on the two numbers
-Func that gets 5 numbers and prints their average (basically implement average)
+- Guessing game: func that gets number of guesses for the current round, chooses a random number, and for <number of guesses> times, the user attempts to guess the random number, and the game prints yes/no
+- Func that gets an operator and 2 numbers, and prints the result of the operation on the two numbers
+- Func that gets 5 numbers and prints their average (basically implement average)
 
 
 
@@ -188,7 +189,7 @@ How the body from the request is filled in the struct
 - Build response struct
 - Query the weather API 
 - Unmarshal json
-- Convert Kelvin -> celsius/fahrenheit
+- Convert Kelvin -> Celsius/Fahrenheit
 - Display response
 
 ## Homework
@@ -201,12 +202,9 @@ How the body from the request is filled in the struct
 # Meeting #6 - Graduation event
 ## Going online
 - First hour for last questions and fixes
-- Upload the code to github
+- Upload the code to GitHub
 - Demo to classmates
 - Consider bringing a motivation speaker
 - Introduce further GoBridge material
 - Suggest attending meetups
 - Remind to keep using slack
-
-
-
