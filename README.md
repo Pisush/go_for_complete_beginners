@@ -13,7 +13,7 @@ The material was designed during a series of workshops that took place in Berlin
 - [GoBridge/Women Techmakers Berlin 2016](https://www.meetup.com/gdgberlin/events/233883713/)
 - [GoBridge/Women Techmakers Berlin 2017](https://www.meetup.com/gdgberlin/events/236594458/)
 - [Booster Conference 2017](https://www.boosterconf.no/talks/846)
-
+- [GoBridge/Women Who Go London 2017](https://www.bridgetroll.org/events/328)
 
 
 Many thanks to the reviewers and contributors!
