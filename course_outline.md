@@ -31,24 +31,15 @@ Asking “is all clear?” or “who didn’t understand?” is not enough. Many
 ### Intro to go
 - Where go fits in the field of languages the participants know
 - When and for what purpose was it invented
-What version is current
-- Parallelism vs concurrency
-Simple gophers example from Rob Pike’s talk
-- Why people like it 
-concurrency, simplicity, mascot
-- What are keywords
-name some that may be familiar: var, const, if, else
-- Lexical identifiers
-How to comment
-No need for semicolons, as some may have seen
-How to format
+- What version is current
+- Parallelism vs concurrency (simple gophers example from Rob Pike’s talk)
+- Why people like it (concurrency, simplicity, mascot)
+- What are keywords (name some that may be familiar: var, const, if, else)
+- Lexical identifiers (How to comment, no need for semicolons, how to format)
 - Some notes on compilers and the go compiler:
-All programs have to be converted to a form that the computer understands
-Some languages like Python and Ruby do this as you run the program
-Other languages like Go require a special step, called compiling
-- The Go Community is awesome
-GoBridge, Women Who Go, Newsletter, meetups, twitter, confs, slack
-- Sign up to gophers slack and make sure everyone are in the dedicated channel
+All programs have to be converted to a form that the computer understands. Some languages, like Python and Ruby, do this as you run the program. Other languages, like Go and C, require a special step: compiling.
+- The Go Community is awesome (GoBridge, Women Who Go, Newsletter, meetups, twitter, confs, slack, etc.)
+- Sign up to gophers slack and make sure everyone are in a dedicated channel
 
 ## Practice at the playground
 ### Variables
