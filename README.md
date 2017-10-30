@@ -1,9 +1,9 @@
-# Go for complete beginners
+# Go for Complete Beginners
 
 
 This is the course outline for teaching Go for complete beginners over 6 meetings.
 
-The material was designed during a series of workshops that took place in Berlin during 09-12/2016, in collaboration with the [GoBridge](https://golangbridge.org/) and [Women Techmakers Berlin](https://www.facebook.com/WomenTechmakersBerlinPage/) chapters.
+The material was designed during a series of workshops that took place in Berlin during 09-12/2016, in collaboration with the [GoBridge](https://golangbridge.org/) and [Women Techmakers Berlin](http://wtmberlin.com/) chapters.
 
 ### The workshop is mentioned here:
 - The [list of available GoBridge workshops](https://github.com/gobridge/workshops/blob/master/available_courses.md)
